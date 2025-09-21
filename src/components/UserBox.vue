@@ -10,6 +10,7 @@
     <pre>{{ userInfo }}</pre>
 
     <h3>3.验证码</h3>
+    <button>测试</button>
   </div>
 </template>
 
