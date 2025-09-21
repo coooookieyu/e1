@@ -8,6 +8,8 @@
     <h3>2. 用户信息</h3>
     <button @click="loadUser">获取用户</button>
     <pre>{{ userInfo }}</pre>
+
+    <h3>3.验证码</h3>
   </div>
 </template>
 
